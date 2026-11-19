@@ -1,4 +1,4 @@
-<img width="1545" height="596" alt="image" src="https://github.com/user-attachments/assets/48acc037-794b-43b3-a892-136239b92434" /># AI_Automation_Avanzado
+# AI_Automation_Avanzado
 
 Acá voy a subir mis trabajos del curso AI Automation Avanzado de Coderhouse
 
@@ -19,4 +19,5 @@ Acá voy a subir mis trabajos del curso AI Automation Avanzado de Coderhouse
 4. **Barrera Human-in-the-loop (`Create a draft`):** Guarda la respuesta redactada por el sistema multi-agente como borrador en Gmail para revisión y aprobación humana previa al envío.
 
 ## Evidencia de credenciales activas en n8n
-![Credenciales activas en n8n](<img width="1545" height="596" alt="image" src="https://github.com/user-attachments/assets/d9e405f4-20e3-42b1-86be-c306236d1b8a" />)
+![Credenciales activas en n8n]
+<img width="1545" height="596" alt="image" src="https://github.com/user-attachments/assets/48acc037-794b-43b3-a892-136239b92434" />
